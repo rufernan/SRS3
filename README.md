@@ -22,7 +22,7 @@ This repo contains the codes for the RS paper: [Sentinel-3 Super-Resolution base
 ## Citation
 
 ```
-@article{ibanez2021multitemporal,
+@article{fernandez2021sentinel,
   title={Sentinel-3 Super-Resolution based on Dense Multi-Receptive Channel Attention},
   author={Fernandez, Rafael and Fernandez-Beltran, Ruben and Kang, Jian and Pla, Filiberto},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
