@@ -12,9 +12,9 @@ This repo contains the codes for the JSTARS paper: [Sentinel-3 Super-Resolution 
 
 ## Usage
 
-(comming soon)
+<!-- (comming soon) -->
 
-<!-- `./codes/create_model_regression.m` is the proposed 3D-CNN. -->
+`./codes/model.m` is the proposed model.
 
 <!-- `./codes/RUN_3dcnn.m` is a sample of the main script. -->
 
