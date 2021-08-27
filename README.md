@@ -14,7 +14,7 @@ This repo contains the codes for the JSTARS paper: [Sentinel-3 Super-Resolution 
 
 <!-- (comming soon) -->
 
-`./codes/model.m` is the proposed model.
+`./codes/model.py` is the proposed model.
 
 <!-- `./codes/RUN_3dcnn.m` is a sample of the main script. -->
 
